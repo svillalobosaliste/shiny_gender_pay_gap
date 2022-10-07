@@ -1,4 +1,4 @@
-# shiny_gender_pay_gap
+# Gender pay gap - App
 
 Code for obtaining https://bootstrapsalvaje.shinyapps.io/shiny_final/
 
